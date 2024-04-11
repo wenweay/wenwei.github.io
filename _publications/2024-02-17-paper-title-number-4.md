@@ -2,7 +2,7 @@
 title: "A hybrid brain-computer interface using motor imagery and SSVEP Based on convolutional neural network"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This work is conducted during undergraduate period.'
 date: 2023-12-31
 venue: 'Brain-Apparatus Communication: A Journal of Bacomics'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
