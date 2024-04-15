@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am currently a Master's student in Biomedical Engineering at Politecnico di Milano. I obtained my Bachelor's degree in Biomedical Engineering from Southern University of Science and Technology (SUSTech) in Shenzhen, China, in 2019. Additionally, I am a member of the Neural Computing and Control Laboratory (NCCLAB) at SUSTech, under the guidance of Professor [Quanying Liu](https://faculty.sustech.edu.cn/?tagid=liuqy&iscss=1&snapid=1&orderby=date&go=1&lang=en), where I focus on research in non-invasive brain-computer interfaces. My long-term research goal is to leverage artificial intelligence techniques to develop commercially viable general-purpose brain-computer interfaces.
-
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -46,4 +46,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.-->
